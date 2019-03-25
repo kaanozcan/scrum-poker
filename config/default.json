@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3000,
+    "host": "http://localhost:300"
+  },
+  "session": {
+    "secret": "cats"
+  }
+}
